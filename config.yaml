@@ -1,6 +1,6 @@
 baseurl: /
 languageCode: en-us
-title: Hugo Ivy
+title: YIN
 theme: "hugo-ivy"
 ignoreFiles: ["\\.Rmd$", "\\.Rmarkdown$", "_cache$"]
 preserveTaxonomyNames: true
@@ -28,7 +28,7 @@ menu:
       url: "/index.xml"
 
 params:
-  description: "A Hugo theme ported from the static site generator Ivy."
+  description: "我的生活日记"
   footer: "&copy; [Yihui Xie](https://yihui.org) 2017-{Year} | [Github](https://github.com/yihui)"
   highlightjsLang: ["latex"]
   highlightjsTheme: "github"
