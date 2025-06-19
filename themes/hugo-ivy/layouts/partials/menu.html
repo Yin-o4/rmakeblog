@@ -11,5 +11,28 @@
   <li{{ if eq .URL $currentPage.RelPermalink }} class="active"{{ end }}><a href="{{ .URL }}">{{ .Name }}</a></li>
   {{ end }}
   {{ partial "menu_extra.html" . }}
+
+
+   <!-- 头像li -->
+    <li class="menu-avatar">
+      <a href="/about/">
+        <img src="{{ .Site.Params.avatar }}" alt="User Avatar" class="avatar" />
+      </a>
+    </li>
   </ul>
 </nav>
+
+
+<style>
+  .menu-avatar {
+    margin-left: 20px;
+    display: flex;
+    align-items: center;
+  }
+  .avatar {
+    width: 32px;
+    height: 32px;
+    border-radius: 50%;
+    display: block;
+  }
+</style>

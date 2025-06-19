@@ -1,6 +1,6 @@
 baseurl: /
 languageCode: en-us
-title: YIN
+title: YIN ZHANG
 theme: "hugo-ivy"
 ignoreFiles: ["\\.Rmd$", "\\.Rmarkdown$", "_cache$"]
 preserveTaxonomyNames: true
