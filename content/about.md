@@ -1,11 +1,8 @@
 ---
 author: Yihui Xie
 date: "2017-08-06"
-title: YIN
+title: Yin
 ---
-
-![Avatar](/images/mao.jpg){style="width:120px; border-radius: 50%; display:block; margin: 1rem auto;"}
-
 
 This Hugo theme was ported from [
 Ivy](https://github.com/dmulholland/ivy), 

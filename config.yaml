@@ -1,6 +1,6 @@
 baseurl: /
 languageCode: en-us
-title: YIN ZHANG
+title: Yin
 theme: "hugo-ivy"
 ignoreFiles: ["\\.Rmd$", "\\.Rmarkdown$", "_cache$"]
 preserveTaxonomyNames: true
@@ -12,27 +12,26 @@ permalinks:
 
 menu:
   main:
-    - name: "Home"
+    - name: "首页"
       url: "/"
       weight: 1
-    - name: "About"
+    - name: "关于"
       url: "/about/"
       weight: 2
-    - name: "Categories"
+    - name: "日志"
       url: "/categories/"
       weight: 3
-    - name: "Tags"
+    - name: "标签"
       url: "/tags/"
       weight: 4
-    - name: "Subscribe"
-      url: "/index.xml"
 
 params:
-  description: "我的生活日记"
+  description: "Welcome to Yin's planet."
   footer: "&copy; [Yihui Xie](https://yihui.org) 2017-{Year} | [Github](https://github.com/yihui)"
   highlightjsLang: ["latex"]
   highlightjsTheme: "github"
   highlightjsVersion: "11.7.0"
+  avatar: "/images/mao.jpg"
 
 markup:
   highlight:
