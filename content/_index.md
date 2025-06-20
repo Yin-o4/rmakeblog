@@ -2,8 +2,15 @@
 title: Home
 ---
 
-[<img src="https://simpleicons.org/icons/github.svg" style="max-width:15%;min-width:40px;float:right;" alt="Github repo" />](https://github.com/yihui/hugo-ivy)
+这里是Yin的个人主页。目前是名学生，专业是应用统计学。
+生性不好动，但为了不让自己变成个胖子，常常跑步锻炼。
+使用的语言有：**python,R,Mathematica.**.
 
-This Hugo theme was ported from [Ivy](https://github.com/dmulholland/ivy), a minimalist website generator built in Python. I don't have time to document it. You have to read the source code to understand what it can do. Like Ivy, this theme is also released under [the Unlicense](https://en.wikipedia.org/wiki/Unlicense), which basically means you just do whatever you want.
 
-All pages not under the root directory of the website are listed below. You can also visit the list page of a single section, e.g., [posts](/post/), or [notes](/note/).
+最喜欢的文章是《与宋元思书》：
+
+>风烟俱净，天山共色，从流飘荡，任意东西。自富阳至桐卢，一百许里，奇山异水，天下独绝。
+>水皆缥碧，千丈见底，游鱼细石，直视无碍。急湍甚箭，猛浪若奔。
+>夹岸高山，皆生寒树。负势竞上，互相轩邈，争高直指，千百成峰。
+>泉水激石，泠泠作响；好鸟相鸣，嘤嘤成韵。蝉则千啭不穷，猿则百叫无绝。
+>鸢飞戾天者，望峰息心；经纶世务者，窥谷忘返。横柯上蔽，在昼犹昏；疏条交映，有时见日。
