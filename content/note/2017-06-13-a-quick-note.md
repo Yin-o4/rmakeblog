@@ -1,5 +1,5 @@
 ---
-author: Yihui Xie
+author: Yin
 categories:
 - Example
 date: "2017-06-13"
