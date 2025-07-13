@@ -27,7 +27,7 @@ menu:
 
 params:
   description: "Welcome to Yin's planet."
-  footer: "&copy; [Yihui Xie](https://yihui.org) 2017-{Year} | [Github](https://github.com/yihui)"
+  footer: "&copy; [Yin](https://yins.netlify.app/) 2017-{Year} | [Github](https://github.com/Yin-o4)"
   highlightjsLang: ["latex"]
   highlightjsTheme: "github"
   highlightjsVersion: "11.7.0"
